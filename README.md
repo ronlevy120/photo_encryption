@@ -19,7 +19,7 @@ from PIL import Image, ImageDraw
 writen on Python 3.
 
 ### example
-![Example 1](\photo_encryption\example 1.JPG)
+![Example 1](\photo_encryption\example_1.jpg)
 
 
 
