@@ -19,10 +19,8 @@ from PIL import Image, ImageDraw
 writen on Python 3.
 
 ### example
-```
-![alt text](http://url/to/img.png)
+![Example 1](\photo_encryption\example 1.JPG)
 
-```
 
 
 
